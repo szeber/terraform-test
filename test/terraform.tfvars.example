@@ -1,0 +1,4 @@
+awsAccessKey = ""
+awsSecretKey = ""
+sshAllowedIp = ""
+sshKeyName   = ""
